@@ -1,23 +1,29 @@
-Step 1:- copy the github repo url
+Car Rental System
 
-Step 2:- open cmd terminal 
+Overview
 
-Step3:- Git clone repo_url
+The Car Rental System is a web-based application designed to simplify the process of renting cars. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, it provides a seamless experience for both customers and administrators.
 
-Step 5:- open the folder
-               unzip frontend 
-               Unzip backend
+Features
 
-Step6:- Go back to main folder. 
+User Authentication: Secure user registration and login.
+Browse Cars: View a list of available cars with detailed specifications.
+Admin Dashboard: Manage car inventory, bookings.
+Responsive Design: Optimized for desktops, tablets, and mobile devices.
+Tech Stack
+Frontend: React.js with modern JavaScript (ES6+)
+Backend: Node.js and Express.js
+Database: MongoDB
+State Management: Redux (if used)
+Styling: CSS or frameworks like TailwindCSS
+API Integration: RESTful APIs for smooth communication between client and server
 
-Step7:- right click open in terminal 
 
-Step 8:- code .
 
-Step9:- move to frontend
-            npm install 
-            npm run dev
-
-Step10:- move backend
-          npm install 
-          npm start
+Open your browser and navigate to http://localhost:3000 to access the application.
+Register as a user to browse and rent cars.
+Use admin credentials (if available) to access the admin panel.
+Future Enhancements
+Integration of real-time tracking for rented cars.
+Advanced filtering and search options for users.
+Multi-language support for global accessibility.
