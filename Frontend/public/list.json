@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Mercedes",
+        "title":"",
+        "price":0,
+        "category":"Trail",
+        "image":"https://img.freepik.com/free-photo/view-3d-car_23-2150796904.jpg?t=st=1724953778~exp=1724957378~hmac=535869a96e4d307c2f4bb60825c8ff140ab337844b71b6de2f1d4bfbbd285ac4&w=740"
+    },
+    {
+        "id":2,
+        "name":"Luxurious car",
+        "title":"",
+        "price":0,
+        "category":"Trail",
+        "image":"https://img.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.jpg?t=st=1725107666~exp=1725111266~hmac=fa7a675fc0b8dfd20fccbb5bc82aa6348d159e20f2854d7075b99e643dab7c9c&w=900"
+    },
+    {
+        "id":3,
+        "name":"Sports car driving",
+        "title":"",
+        "price":0,
+        "category":"Trail",
+        "image":"https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1725107798~exp=1725111398~hmac=5abb49ad764c2d7a75b0da604fff86d63699c04588fb63e626a5f72d613e3f7d&w=900"
+    },
+    {
+        "id":4,
+        "name":"View of 3d car",
+        "title":"",
+        "price":0,
+        "category":"Trail",
+        "image":"https://img.freepik.com/free-photo/view-3d-car_23-2150796894.jpg?t=st=1725108054~exp=1725111654~hmac=3acf7d65e43de1d20225c2d36822359e818ee71c365b116e0f5c3d7a26819db9&w=740"
+    },
+    {
+        "id":5,
+        "name":"silver bmw car with the word honda",
+        "title":"",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/silver-bmw-car-with-word-honda-front_1249303-7081.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name":"black sedan sport car",
+        "title":"",
+        "price":1200,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/front-view-black-sedan-sport-car-bridge_114579-4068.jpg?t=st=1725108432~exp=1725112032~hmac=b88c63fb480e3acfc77448d04acd2806c4ef3fb925224555f9554b845e6c76f7&w=360"
+    },
+    {
+        "id":7,
+        "name":"sliver metallic color sport car",
+        "title":"",
+        "price":2000,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/sliver-metallic-color-sport-car-driving-with-high-speed-road_114579-4029.jpg?t=st=1725108549~exp=1725112149~hmac=a6bc5f843886cd99b4ed67dea79183e3e1eb65c006324013ce5fa821721e8e35&w=360"
+    },
+    {
+        "id":8,
+        "name":"silver car with the hood up",
+        "title":"",
+        "price":3000,
+        "category":"Paid",
+        "image":"https://img.freepik.com/premium-photo/silver-car-with-hood-up-sun-setting-it_1115474-141578.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"3d car",
+        "title":"",
+        "price":2500,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/view-3d-car_23-2150796980.jpg?t=st=1725108705~exp=1725112305~hmac=31667e1768e04f7223fd3a00e5febc86e2a251535a5c858f6d38b5a2789cb5a4&w=740"
+    },
+    {
+        "id":10,
+        "name":"Midjourney 5.2",
+        "title":"",
+        "price":3400,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796876.jpg?t=st=1725108764~exp=1725112364~hmac=572d624df7c333f7208b778b7423f12edc5ed8d850d36527d20e7c2999376bc6&w=740"
+    },
+    {
+        "id":11,
+        "name":"3d car on a city street",
+        "title":"",
+        "price":4500,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/3d-car-city-street_23-2150796850.jpg?t=st=1725108809~exp=1725112409~hmac=aa83ceba88d38b9c94c3c4b5cf5945c8a394663cd91f42df194b2dba766439f1&w=740"
+    }
+]
